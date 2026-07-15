@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Companies\\": "src/Companies/",
+            "Helpers\\": "src/Helpers/",
+            "Interfaces\\": "src/Interfaces/",
+            "Persons\\": "src/Persons/",
+            "Restaurants\\": "src/Restaurants/"
+        }
+    }
+}
